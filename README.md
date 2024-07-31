@@ -59,26 +59,11 @@ The visualizations were created using Python and Plotly. They provide a clear re
 
 ## How to Run
 
-1. Clone the repository:
+1. **Open the generated HTML file:**
     ```sh
-    git clone https://github.com/15kay/bank-complaints-analysis.git
+    open index.html
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd bank-complaints-analysis
-    ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. Run the data processing script:
-    ```sh
-    python process_data.py
-    ```
-5. Open the Jupyter Notebook to explore the visualizations:
-    ```sh
-    jupyter notebook
-    ```
+    Or manually open the `complaints_by_product.html` file located in the project directory.
 
 ## Acknowledgements
 
